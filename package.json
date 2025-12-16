@@ -1,0 +1,15 @@
+{
+  "name": "com.datdb.savegame",
+  "displayName": "Save Game",
+  "description": "Save Game",
+  "author": "datdb",
+  "version": "1.0.0",
+  "website": "https://github.com/dat-dangba/SaveGame",
+  "samples": [
+    {
+      "displayName": "Save Game Sample",
+      "description": "Save Game Sample",
+      "path": "Samples~/Save Game Sample"
+    }
+  ]
+}
