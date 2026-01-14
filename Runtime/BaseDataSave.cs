@@ -1,6 +1,4 @@
-using Unity.Collections;
-
-namespace SaveGame
+namespace DBD.SaveGame
 {
     public class BaseDataSave
     {

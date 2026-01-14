@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace SaveGame
+namespace DBD.SaveGame
 {
     public abstract class BaseSaveManager<INSTANCE, DATA> : MonoBehaviour
         where INSTANCE : MonoBehaviour where DATA : BaseDataSave, new()

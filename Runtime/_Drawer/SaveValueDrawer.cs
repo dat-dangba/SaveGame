@@ -2,7 +2,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace SaveGame
+namespace DBD.SaveGame
 {
     [CustomPropertyDrawer(typeof(SaveValue<>), true)]
     public class SaveValueDrawer : PropertyDrawer

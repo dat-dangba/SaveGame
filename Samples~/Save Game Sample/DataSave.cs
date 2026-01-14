@@ -1,8 +1,7 @@
 using System.Collections.Generic;
-using SaveGame;
 using UnityEngine;
 
-namespace SaveGameSample
+namespace DBD.SaveGame.Sample
 {
     [System.Serializable]
     public class DataSave : BaseDataSave

@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace SaveGame
+namespace DBD.SaveGame
 {
     [System.Serializable]
     public class SaveValue<T>

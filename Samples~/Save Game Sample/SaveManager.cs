@@ -1,7 +1,6 @@
-using SaveGame;
 using UnityEngine;
 
-namespace SaveGameSample
+namespace DBD.SaveGame.Sample
 {
     public class SaveManager : BaseSaveManager<SaveManager, DataSave>
     {

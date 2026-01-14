@@ -1,6 +1,6 @@
 {
-    "name": "SaveGame",
-    "rootNamespace": "",
+    "name": "DBD-SaveGame",
+    "rootNamespace": "DBD.SaveGame",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

@@ -3,7 +3,7 @@ using System.IO;
 using System.Text;
 using UnityEngine;
 
-namespace SaveGame
+namespace DBD.SaveGame
 {
     public static class SaveGame
     {
