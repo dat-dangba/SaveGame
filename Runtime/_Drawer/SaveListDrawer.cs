@@ -23,5 +23,5 @@ namespace DBD.SaveGame
             EditorGUI.PropertyField(position, valueProp, label, true);
         }
     }
-#endif
 }
+#endif

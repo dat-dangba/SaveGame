@@ -37,5 +37,5 @@ namespace DBD.SaveGame
             GUI.enabled = oldState;
         }
     }
-#endif
 }
+#endif
