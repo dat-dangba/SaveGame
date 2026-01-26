@@ -78,8 +78,8 @@ namespace DBD.SaveGame.Editor
 
             sb.AppendLine("}");
 
-
             string generatedPath = path.Replace(".cs", ".Public.cs");
+            Debug.Log($"datdb - generatedPath {generatedPath}");
             File.WriteAllText(generatedPath, sb.ToString());
         }
 
